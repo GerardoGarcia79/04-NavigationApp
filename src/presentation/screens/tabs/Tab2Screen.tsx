@@ -6,7 +6,7 @@ export const Tab2Screen = () => {
   return (
     <View>
       <HamburgerMenu />
-      <Text>Tab1Screen</Text>
+      <Text>Tab2Screen</Text>
     </View>
   );
 };
